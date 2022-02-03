@@ -1,4 +1,4 @@
-- *Name of App Here*
+- *Calculator Tip*
 
 **Name of your app** is a tip calculator application for iOS.
 
@@ -24,11 +24,10 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Gif Video
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a Gif of implemented user:
+< img src= "http://g.recordit.co/VQkdEKm8Gj.gif" width=250> <br>  
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
