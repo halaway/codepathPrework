@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Gif Video
 
 Here's a Gif of implemented user:
-< img src= "http://g.recordit.co/VQkdEKm8Gj.gif" width=250> <br>  
+<img src= "http://g.recordit.co/VQkdEKm8Gj.gif" width=250> <br>  
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
